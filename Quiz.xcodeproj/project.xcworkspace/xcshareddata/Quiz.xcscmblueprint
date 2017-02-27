@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F37FACB3C578A8FE463B49B3DEF95CDCC7300A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F37FACB3C578A8FE463B49B3DEF95CDCC7300A6" : 9223372036854775807,
+    "D0FD092FB84E0EEAF96B7D393E7F58ABD7BC48E1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A2EB2A5-4105-4789-878F-8796139A15AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F37FACB3C578A8FE463B49B3DEF95CDCC7300A6" : "Quiz-master\/",
+    "D0FD092FB84E0EEAF96B7D393E7F58ABD7BC48E1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Quiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Quiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahawk66\/Quiz",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F37FACB3C578A8FE463B49B3DEF95CDCC7300A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahawk66\/goodbyeWorld.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0FD092FB84E0EEAF96B7D393E7F58ABD7BC48E1"
+    }
+  ]
+}
